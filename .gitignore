@@ -1,0 +1,5 @@
+#local enviroment files
+.env*
+
+#michilandious
+.vscode
